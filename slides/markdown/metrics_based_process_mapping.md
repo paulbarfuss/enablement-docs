@@ -24,8 +24,8 @@ What's the Technology or system that helps with that step?
 * Heavily influenced by Karen Martin's work in this area
 * Designed to view the detailed, micro picture and make tactical improvements with front line workers.
 * The first generation comes from Toyota's "information and material flow"
-as documented in [Lean Thinking](https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-1)
-and the second generation from [Learning to See](https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-2).
+as documented in [Lean Thinking](https://paulbarfuss.github.io/practice-library/practices/vsm-and-mbpm/#footnote-1)
+and the second generation from [Learning to See](https://paulbarfuss.github.io/practice-library/practices/vsm-and-mbpm/#footnote-2).
 
 
 

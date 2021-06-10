@@ -12,7 +12,7 @@ The latest version of slides to introduce this exercise are [here](https://docs.
 
 ## The Exercise
 
-The exercise can be found [here](https://rht-labs.github.io/enablement-docs/#/2-attack-of-the-pipelines/README)
+The exercise can be found [here](https://paulbarfuss.github.io/enablement-docs/#/2-attack-of-the-pipelines/README)
 
 
 ## Wrap-Up
