@@ -1,7 +1,7 @@
 # Red Hat Open Innovation Labs Enablement Materials
 This repo will house all the slides and lab exercises for the Enablement. It will also be used to track issues, features and new additions to the Enablement.
 
-[Course Content](https://paulbarfuss.github.io/enablement-docs/#/)
+[Course Content](https://rht-labs.github.io/enablement-docs/#/)
 
 ## Slides
 Please navigate to the "Slides" folder and follow the ReadMe instructions on how to render and view the slides.
