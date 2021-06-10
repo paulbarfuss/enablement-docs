@@ -874,7 +874,7 @@ stage('OWASP Scan') {
               allowMissing: false,
               alwaysLinkToLastBuild: false,
               keepAll: true,
-              reportDir: '',
+              reportDir: '/zap/wrk/',
               reportFiles: 'index.html',
               reportName: 'Zap Branniscan'
             ]
